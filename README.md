@@ -6,8 +6,8 @@ Url: `localhost:8080/api/student`
 
 ``
 {
-    "firstName": "pepp",
-    "lastName": "demas",
+    "firstName": "jane",
+    "lastName": "dane",
     "email": "janedane@me.io",
     "age": 32
 }
